@@ -11,4 +11,4 @@ https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3
     poetry install
     ```
     
-3. Run code in rag.ipynb
+3. Run notebook rag.ipynb
